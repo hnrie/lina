@@ -1,0 +1,7 @@
+C:/Users/Luna/Desktop/Important/LunaDllTest/packages/onyx/logic/luau/cmake_win/CMakeFiles/Luau.Common.dir
+C:/Users/Luna/Desktop/Important/LunaDllTest/packages/onyx/logic/luau/cmake_win/CMakeFiles/Luau.Ast.dir
+C:/Users/Luna/Desktop/Important/LunaDllTest/packages/onyx/logic/luau/cmake_win/CMakeFiles/Luau.Compiler.dir
+C:/Users/Luna/Desktop/Important/LunaDllTest/packages/onyx/logic/luau/cmake_win/CMakeFiles/Luau.VM.dir
+C:/Users/Luna/Desktop/Important/LunaDllTest/packages/onyx/logic/luau/cmake_win/CMakeFiles/Luau.Bytecode.dir
+C:/Users/Luna/Desktop/Important/LunaDllTest/packages/onyx/logic/luau/cmake_win/CMakeFiles/edit_cache.dir
+C:/Users/Luna/Desktop/Important/LunaDllTest/packages/onyx/logic/luau/cmake_win/CMakeFiles/rebuild_cache.dir
